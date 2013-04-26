@@ -42,8 +42,8 @@
 
 #define CHECK_TIME (3*HZ)
 
-#define MAX_KEYS	3
-#define MAX_USING_FINGER_NUM 3
+#define MAX_KEYS	2
+#define MAX_USING_FINGER_NUM 2
 
 static int prev_wdog_val = -1;
 static int i2c_error_cnt = 0;
